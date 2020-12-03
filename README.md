@@ -45,6 +45,96 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ##### Titulo 5
 ###### Titulo 6
 
+Mi nombre es **Adrian Eguez** me gusta ~~computacion~~
+
+## Listas ordenadas
+
+Las listas ordenadas son las siguientes:
+
+1.  Lunes
+2.  Martes
+1.  Miercoles
+
+Las listas no ordenadas son las siguientes:
+
+-  Manzanas
+-  Peras
+-  Piñas
+
+## Links
+
+Quiero ir a [Google](http://www.google.com)
+
+Quiero ir a [Google](http://www.google.com "Me gustan las papayas") y se mostrará un mensaje encima del link
+
+Imagen
+
+![Carro](https://www.adslzone.net/app/uploads/2019/04/borrar-fondo-imagen.jpg "Otro mensajito")
+
+<img src="https://www.adslzone.net/app/uploads/2019/04/borrar-fondo-imagen.jpg" height="300px" >
+
+## Codigo
+
+En `python` se puede crear variables vacias.
+
+```python
+print("Hola mundo")
+```
+
+```kotlin
+val nombre = "Adrian"
+```
+
+```javascript
+function comer(){
+}
+```
+
+```xml
+<hola fonetica="3">Como estas</hola>
+```
+
+```
+$ apt get install xxxx
+$ echo HOLA
+$ apt update
+```
+
+## Tablas
+
+
+| Nombre  | Apellido|
+| ---     | ---     |
+| Adrian  | Eguez   |
+| Vicente | Sarzosa |
+
+
+## Quotes
+
+Cita uno
+
+> Laaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarguisima y pues mas y mas
+> igual sigo siendo parte de la cita
+
+Otra cita
+
+> uno
+> dos
+> tres
+> **Adrian** `Eguez`
+
+## Lineas separadores y HTML
+
+Contenido 
+
+---
+
+Contenido 
+
+---
+
+<p>Hola amigos **Como estas** <strong>COMO ESTAS </strong> </p>
+
 
 
 
